@@ -1,0 +1,4 @@
+Django==3.2.9
+django-test-plus==2.2.0
+djangorestframework==3.12.4
+pyjwt==2.3.0
